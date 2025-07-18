@@ -3,8 +3,7 @@
 
 🎯 **Data Analyst | SQL Enthusiast | Power BI Storyteller**  
 
-📍 Based in Nigeria | 🌍 Open to global remote opportunities
-
+📍 Based in Nigeria 
 ---
 
 ## About Me
