@@ -1,71 +1,81 @@
-## 👋 Hi, I'm Abolanle
+## Hi, I'm Abolanle (Datadiva)
 
 
-🎯 **Data Analyst | SQL Enthusiast | Power BI Storyteller**  
+**Business Analyst | SQL Enthusiast | Power BI Storyteller**  
 
-📍 Based in Nigeria 
+Based in Nigeria 
 ---
 
 ## About Me
 
-I'm a naturally curious and business-minded data analyst with a creative background in the arts and a strong drive to uncover insights that move businesses forward.
+I’m a business-minded data analyst focused on transforming raw data into clear, actionable insights that support better decision-making. I work across the full analytics workflow from cleaning and structuring datasets to analyzing trends and presenting insights through intuitive dashboards.
 
-I specialize in:
+What I focus on:
 
-- 📊 Turning complex data into clear, actionable insights  
-- 🧹 Cleaning and structuring messy datasets (Excel + SQL + Python combo!)  
-- 📈 Creating visually compelling dashboards with **Power BI**  
-- 🧠 Asking the right questions before running the numbers  
+- Cleaning, validating, and structuring messy datasets using Excel, SQL, and Python
 
-Whether it’s tracking customer loyalty, uncovering hidden patterns, or building a data narrative from scratch, I enjoy helping teams make smarter, data-driven decisions.
+- Writing efficient SQL queries to explore, aggregate, and analyze data
 
-## ⚙️ Skills Snapshot
+- Performing exploratory analysis to uncover trends, patterns, and anomalies
 
-### 🛢️ SQL (MySQL & PostgreSQL)
-- Writing optimized queries with **JOINs**, **CTEs**, and **Window Functions**
-- Data exploration, transformation, and performance tuning
-- Creating analysis-ready datasets for reporting
+- Building clear, decision-ready dashboards in Power BI
 
-### 📊 Microsoft Excel
-- Data cleaning, wrangling, and spreadsheet modeling
-- Lookups, pivot tables, and conditional formatting
-- **Automation** using formulas and macros
+- Translating analytical findings into insights that stakeholders can act on
 
-### 🐍 Python
-- Data manipulation with **pandas** and **numpy**
-- Automating repetitive tasks and data workflows
-- Data visualization with **matplotlib** and **seaborn**
+My projects often explore areas like customer behavior, pricing, and operational performance, with an emphasis on clarity, accuracy, and business relevance.
 
-### 📈 Power BI
-- Building clean, intuitive dashboards with a storytelling approach
-- DAX for custom KPIs and dynamic measures
-- Slicing data by user-friendly visuals and interactive reports
+## Skills Snapshot
 
-### 🔁 Bonus
-- Strong communication and storytelling mindset
-- Curious, coachable, and focused on **problem-solving through data**
-- Attention to detail, critical thinking, client communication
+### SQL
+
+- Writing efficient queries using JOINs, CTEs, and Window Functions
+
+- Data exploration, transformation, and aggregation
+
+- Creating analysis-ready datasets for reporting and dashboards
+
+### Microsoft Excel
+
+- Data cleaning, wrangling, and structured analysis
+
+- Pivot tables, lookups, and conditional logic
+
+- Data preparation using advanced formulas and Power Query
+
+### Python
+
+- Data manipulation and analysis with pandas and NumPy
+
+- Automating data cleaning and repeatable workflows
+
+- Exploratory analysis and basic visualization
+
+### Power BI
+
+- Building clear, decision-focused dashboards
+
+- Creating custom KPIs and measures using DAX
+
+- Designing interactive reports with filters and drill-downs
+
+### Analytical Approach
+
+- Translating business questions into analytical tasks
+
+- Emphasis on accuracy, clarity, and reproducibility
+
+- Communicating insights through clean visuals and concise summaries
 
 
-
----
-
-## 💼 What I'm Working On
-
-- 🔍 A **Fintech-focused SQL project** (cleaning + analysis all in SQL)
-- 🧱 Building a **portfolio of end-to-end projects** (Excel ➡ SQL ➡ Power BI ➡ Python)
-
----
-
-## ⚙️ Tools & Skills
+### Tools & Skills
 
 - **Languages**: SQL (MySQL, PostgreSQL), DAX  
-- **Tools**: Power BI, Excel, Google Sheets, Canva  
+- **Tools**: Power BI, Excel, Google Sheets, Canva, Salesforce, Formstack
 - **Soft Skills**: Attention to detail, critical thinking, client communication
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abolanleruthdata/)  
 - ✉️ abolanle.adebambo@gmail.com
@@ -73,7 +83,7 @@ Whether it’s tracking customer loyalty, uncovering hidden patterns, or buildin
 
 ---
 
-> _“Behind every number is a story — I help bring that story to life.”_
+> “Behind every number is a story. I help bring that story to life.”
 
 Thanks for stopping by! 😊
 
