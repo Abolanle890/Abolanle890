@@ -8,7 +8,7 @@ Based in Nigeria
 
 ## About Me
 
-I’m a business-minded data analyst focused on transforming raw data into clear, actionable insights that support better decision-making. I work across the full analytics workflow from cleaning and structuring datasets to analyzing trends and presenting insights through intuitive dashboards.
+I’m a business-minded analyst focused on transforming raw data into clear, actionable insights that support better decision-making. I work across the full analytics workflow from cleaning and structuring datasets to analyzing trends and presenting insights through intuitive dashboards.
 
 What I focus on:
 
